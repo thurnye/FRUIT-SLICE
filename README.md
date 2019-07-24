@@ -1,2 +1,2 @@
-# brick-destroyer
+# FRUIT-SLICE
 this is a game
